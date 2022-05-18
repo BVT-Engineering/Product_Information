@@ -9,7 +9,7 @@ import json
 if __name__ == "__main__":
     # Use a service account
     creds_json = json.loads(os.environ["creds"])
-
+    print("Creds: ", creds_json)
     cred = credentials.Certificate(creds_json)
 
     firebase_admin.initialize_app(cred)
