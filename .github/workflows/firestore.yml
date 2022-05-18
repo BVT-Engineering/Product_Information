@@ -15,5 +15,7 @@ jobs:
           python -m pip install --upgrade pip;
           pip install -r requirements.txt;
       - name: execute py script # run file
+        env:
+          creds: $${{secrets.FIREBASE_CREDENTIALS}}
         run: |
           python run_update.py

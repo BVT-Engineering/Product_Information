@@ -8,7 +8,7 @@ import json
 
 if __name__ == "__main__":
     # Use a service account
-    creds_json = json.loads(os.environ["CREDS"])
+    creds_json = json.loads(os.environ["creds"])
 
     cred = credentials.Certificate(creds_json)
 
