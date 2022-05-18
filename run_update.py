@@ -18,7 +18,6 @@ if __name__ == "__main__":
     firebase_admin.initialize_app(cred)
     db = firestore.client()
     files = Path("product_information/data").glob("*.csv")  # get all csvs in your dir.
-
     for file in files:
         tmp = pd.read_csv(file).to_dict(orient="list")
         # for key, val in tmp.iteritems():
