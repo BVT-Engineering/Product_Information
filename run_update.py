@@ -3,11 +3,15 @@ from pathlib import Path
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
-
+import os
+import JSON
 
 if __name__ == "__main__":
     # Use a service account
-    cred = credentials.Certificate("fir-auth-c00d2-984b75e2587b.json")
+    creds_json = JSON.loads(os.environ["FIREBASE_CREDENTIALS"])
+
+    cred = credentials.Certificate(creds_json)
+
     firebase_admin.initialize_app(cred)
 
     db = firestore.client()
