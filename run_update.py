@@ -19,8 +19,8 @@ if __name__ == "__main__":
 
     decoded = base64.b64decode(base64_encoded_dictstr)
     datastr = decoded.decode("utf-8")
-
-    cred = credentials.Certificate(datastr)
+    cred_dict = json.loads(datastr)
+    cred = credentials.Certificate(cred_dict)
 
     firebase_admin.initialize_app(cred)
     db = firestore.client()
