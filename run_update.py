@@ -12,8 +12,7 @@ logger = logging.getLogger(__name__)
 
 if __name__ == "__main__":
     # Use a service account
-    creds_json = json.loads(os.environ["creds"])
-    logger.info(creds_json)
+    creds_json = os.environ["creds"]
     cred = credentials.Certificate(creds_json)
 
     firebase_admin.initialize_app(cred)
