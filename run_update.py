@@ -14,12 +14,13 @@ logger = logging.getLogger(__name__)
 
 
 if __name__ == "__main__":
+    #  Use a service account
+    base64_encoded_dictstr = os.environ["creds"]
 
-    # Use a service account
-    s = os.environ["creds"]
+    decoded = base64.b64decode(base64_encoded_dictstr)
+    datastr = decoded.decode("utf-8")
 
-    c = json.loads(s)
-    cred = credentials.Certificate(c)
+    cred = credentials.Certificate(datastr)
 
     firebase_admin.initialize_app(cred)
     db = firestore.client()
