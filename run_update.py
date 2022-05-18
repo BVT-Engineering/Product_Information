@@ -16,7 +16,6 @@ if __name__ == "__main__":
     cred = credentials.Certificate(creds_json)
 
     firebase_admin.initialize_app(cred)
-
     db = firestore.client()
     files = Path("product_information/data").glob("*.csv")  # get all csvs in your dir.
 
