@@ -12,8 +12,8 @@ jobs:
           python-version: 3.9 #install the python needed
       - name: Install dependencies
         run: |
-          python -m pip --upgrade pip;
-          if [ -f requirements.txt ]; then pip install -r requirements.txt;
+          python -m pip install --upgrade pip;
+          pip install -r requirements.txt;
       - name: execute py script # run file
         run: |
           python run_update.py
