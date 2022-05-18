@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 
 if __name__ == "__main__":
-    #  Use a service account
+
     base64_encoded_dictstr = os.environ["creds"]
 
     decoded = base64.b64decode(base64_encoded_dictstr)
