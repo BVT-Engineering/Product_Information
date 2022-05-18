@@ -4,11 +4,11 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
 import os
-import JSON
+import json
 
 if __name__ == "__main__":
     # Use a service account
-    creds_json = JSON.loads(os.environ["FIREBASE_CREDENTIALS"])
+    creds_json = json.loads(os.environ["FIREBASE_CREDENTIALS"])
 
     cred = credentials.Certificate(creds_json)
 
