@@ -1,0 +1,2 @@
+﻿,Skyciv name,Supplier,Cross Section Points,Major width,Minor width,Thickness,Steel Grade,Beam connection pitch,Beam connection type
+0,storepro_SL_post_100_67_2,Storepro Solutions Ltd,"[[-33, -67], [-25, -67], [-25, -45], [-50, -35], [-50, 0], [50, 0], [50, -35], [50, -35], [25, -45], [25, -67], [33, -67]]",100,67,2,Q345,75,Coffin

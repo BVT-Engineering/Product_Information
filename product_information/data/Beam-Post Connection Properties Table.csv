@@ -1,0 +1,4 @@
+﻿Supplier name,Beam connection type,Connection pitch,Connection size,Beam depth,Post thickness,Moment capacity,Rotational stiffness
+Generic,coffin,50,3 hook,75.0,1.6,1.2,19
+Generic,coffin,50,4 hook,87.5,1.6,2.0,41
+Generic,coffin,50,5 hook,150.0,1.6,2.3,181
