@@ -11,3 +11,5 @@ Typically product specifications are based on the following heirachy of informat
 4. First principle calculations, research papers or industry best practice guidelines
 
 If we have any information that is incorrect or out of date, please submit up to date information to us as soon as possible. Thanks!
+
+Note: there's also a method to immediately upload any changes to the Prenguin.com engineering platform.
