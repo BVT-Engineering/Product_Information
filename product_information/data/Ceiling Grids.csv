@@ -1,7 +1,7 @@
-Manufacturer,Name,Main Tee Capacity (N),Main Tee Weight (kg/m),Cross Tee Capacity (N),Cross Tee Weight (kg/m),Perimeter Restraint,Perimeter Restraint Capacity (N)
-Placeholder,,760,0.4,460,0.4,,1300
-Rondo,DONN DX1/DX2,760,0.347,467,0.333,ACM7,1500
-Rondo,DONN DX1H/DX2H,1080,0.403,944,0.375,ACM7,1500
-Armstrong,Peakform Prelude 24 XL,900,0.305,900,0.292,BERC2 clip,1300
-T&R Interiors,CBI Grid,840,0.4,630,0.350,2x3.2 mm rivet,1500
-Ecoplus, FasTLock,1200,0.36,900,0.33,2x3.2 mm rivet,1500
+ID,Manufacturer,Name,Main Tee Capacity (N),Main Tee Weight (kg/m),Cross Tee Capacity (N),Cross Tee Weight (kg/m),Perimeter Restraint,Perimeter Restraint Capacity (N)
+0,Placeholder,,760,0.4,460,0.4,,1300
+1,Rondo,DONN DX1/DX2,760,0.347,467,0.333,ACM7,1500
+2,Rondo,DONN DX1H/DX2H,1080,0.403,944,0.375,ACM7,1500
+3,Armstrong,Peakform Prelude 24 XL,900,0.305,900,0.292,BERC2 clip,1300
+4,T&R Interiors,CBI Grid,840,0.4,630,0.350,2x3.2 mm rivet,1500
+5,Ecoplus, FasTLock,1200,0.36,900,0.33,2x3.2 mm rivet,1500
