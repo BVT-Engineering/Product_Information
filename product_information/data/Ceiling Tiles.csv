@@ -1,72 +1,156 @@
-Manufacturer,Name,Length (mm),Width (mm),Thickness (mm),NRC (ASTM C 423),CAC (dB - ASTM E413-10),Rw (dB - EN ISO 10848),Fire Rating (ISO 5660 P1&2),Thermal Conductivity (W/mK - DIN 52612),Weight (kg/sqm)
-,Manual Input,1200,600,,,,,,,0
-,Manual Input,600,600,,,,,,,0
-,Manual Input,1350,450,,,,,,,0
-Eurocoustic,Minerval,1200,600,12,,,,,,1.3
-Eurocoustic,Minerval,1200,600,15,,,,,,1.6
-Eurocoustic,Minerval,600,600,15,,,,,,1.6
-Eurocoustic,Acoustichoc A22,1200,600,25,,,,,,2.1
-Eurocoustic,Tonga,1200,600,20,,,,,,2.2
-Eurocoustic,Tonga,1200,600,22,,,,,,2.2
-Eurocoustic,Tonga,600,600,20,,,,,,2.2
-Eurocoustic,Tonga,600,600,22,,,,,,2.2
-Eurocoustic,Tonga Ultraclean HP,1200,600,22,,,,,,2.2
-Eurocoustic,Tonga Ultraclean HP,600,600,22,,,,,,2.2
-Eurocoustic,Tonga Ultraclean A22,1200,600,22,,,,,,2.7
-Eurocoustic,Tonga Ultraclean A22,600,600,22,,,,,,2.7
-Armstrong,Ultima OP,1200,600,15,0.85,29,,1-S,,2.9
-Armstrong,Ultima OP,600,600,15,0.85,29,,1-S,,2.9
-AMF,Thermatex Thermofon,1200,600,15,0.85,28,,1-S,0.038,2.9
-AMF,Thermatex Thermofon Black,1200,600,15,0.85,28,,1-S,0.08,2.9
-AMF,Thermatex Antaris A,1200,600,19,0.9,26,,1-S,0.04,3
-AMF,Thermatex Antaris A,600,600,19,0.9,26,,1-S,0.04,3
-Armstrong,Fine Fissured,1200,600,16,0.6,35,,1-S,,3.1
-Armstrong,Fine Fissured,600,600,16,0.6,35,,1-S,,3.1
-Eurocoustic,Tonga,1200,600,40,,,,,,3.1
-Eurocoustic,Tonga,600,600,40,,,,,,3.1
-Armstrong,Dune,1200,600,16,0.5,33,,1-S,,3.5
-Armstrong,Dune,600,600,16,0.5,33,,1-S,,3.5
-Armstrong,Ultima OP,1200,600,20,0.95,26,,1-S,,3.5
-Armstrong,Ultima OP,600,600,20,0.95,26,,1-S,,3.5
-AMF,Thermatex Star,1200,600,15,0.6,34,21,1-S,0.057,3.8
-AMF,Thermatex Star,600,600,15,0.6,34,21,1-S,0.057,3.8
-Armstrong,Fine Fissured High Acoustic,1200,600,15,0.7,35,,1-S,,3.9
-AMF,Thermatex Alpha One,1200,600,24,1,29,,1-S,0.04,4
-AMF,Thermatex Alpha One,600,600,24,1,29,,1-S,0.04,4
-AMF,Thermatex Star Complete,1200,600,15,0.7,34,,1-S,0.057,4
-AMF,Thermatex Star Complete,1200,600,15,0.7,34,,1-S,0.057,4
-AMF,Thermatex Thermaclean S,1200,600,15,0.15,34,,,0.057,4
-USG,Impressions ClimaPlus,1200,600,,,,,,,4
-USG,Radar ClimaPlus,1200,600,,,,,,,4
-Eurocoustic,Acoustichoc A40,1200,600,40,,,,,,4.3
-Eurocoustic,Acoustichoc A40,1500,1000,40,,,,,,4.3
-Eurocoustic,Acoustichoc A40,1200,600,40,,,,,,4.3
-Eurocoustic,Tonga Ultraclean A40,1200,600,40,,,,,,4.4
-Eurocoustic,Tonga Ultraclean A40,600,600,40,,,,,,4.4
-USG,Mars ClimaPlus,1200,600,,,,,,,4.7
-USG,Rockface ClimaPlus,1200,600,,,,,,,4.9
-Armstrong,Ultima,1200,600,19,0.7,40,,1-S,,5
-Armstrong,Ultima,600,600,19,0.7,40,,1-S,,5
-Armstrong,Bioguard Acoustic,1200,600,17,0.7,40,,1-S,,5
-Armstrong,Bioguard Acoustic,600,600,17,0.7,40,,1-S,,5
-AMF,Thermatex Acoustic,1200,600,19,0.7,38,22,1-S,0.057,5
-AMF,Thermatex Acoustic,600,600,19,0.7,38,22,1-S,0.057,5
-Armstrong,Dune Max,1200,600,20,0.7,33,,1-S,,5.2
-Armstrong,Dune Max,600,600,20,0.7,33,,1-S,,5.2
-Armstrong,Bioguard Acoustic OP RH100,1200,600,19,0.9,29,,1-S,,5.2
-AMF,Thermatex Alpha HD,1200,600,19,0.85,34,,1-S,0.057,5.2
-AMF,Thermatex Aquatec,1200,600,19,0.9,29,16,1-S,0.04,5.2
-GIB,10 mm 20% GIB-Tone,1200,600,10,,,,,,5.3
-Eurocoustic,Tonga Therm A80,1200,600,77,,,,,,5.6
-USG,Radar ClimaPlus Firecode,1200,600,,,,,,,5.6
-USG,Radar ClimaPlus Hi-NRC,1200,600,,,,,,,5.8
-GIB,10 mm 10% GIB-Tone,1200,600,10,,,,,,6
-Fenta,Hygiene,1200,600,6,,,,1-S,,6.3
-Armstrong,Perla dB,1200,600,,,,,,,7.8
-Armstrong,Ultima OPDB,1200,600,30,0.9,41,,1-S,,8.2
-AMF,Thermatex Alpha HD,1200,600,30,0.9,40,,1-S,0.057,8.2
-AMF,Thermatex SF Acoustic,600,600,24,0.7,39,,1-S,0.057,8.4
-AMF,Thermatex DB Acoustic,1200,600,24,0.7,41,24,1-S,0.057,8.6
-AMF,Thermatex DB Acoustic,600,600,24,0.7,41,24,1-S,0.057,8.6
-AMF,Thermatex Alpha HD,1200,600,35,0.85,42,,1-S,0.057,9.5
-AMF,Thermatex Silence,1200,600,43,0.9,45,,1-S,0.057,10.8
+Manufacturer,Name,Length (mm),Width (mm),Thickness (mm),NRC (ASTM C 423),CAC (dB - ASTM E413-10),Rw (dB - EN ISO 10848),STC (ASTM E413),Fire Rating (ISO 5660 P1&2),Thermal Conductivity (W/mK - DIN 52612),Thermal Resistance (R value),Weight (kg/sqm)
+,Manual Input,1200,600,,,,,,,,,0
+,Manual Input,600,600,,,,,,,,,0
+,Manual Input,1350,450,,,,,,,,,0
+Eurocoustic,Minerval,1200,600,12,,,,,,,,1.3
+Asona,Triton 25,1200,600,25,0.95,22,,,1-S,,0.7,1.5
+Asona,Triton 25,600,600,25,0.95,22,,,1-S,,0.7,1.5
+Asona,Triton 25,1200,300,25,0.95,22,,,1-S,,0.7,1.5
+Asona,Triton 25,1800,600,25,0.95,22,,,1-S,,0.7,1.5
+Asona,Triton 25,2400,600,25,0.95,22,,,1-S,,0.7,1.5
+Asona,Triton 25,1200,1200,25,0.95,22,,,1-S,,0.7,1.5
+Asona,Triton Hygiene 25,1200,600,25,0.9,22,,,2-S,,0.74,1.5
+Asona,Triton Hygiene 25,600,600,25,0.9,22,,,2-S,,0.74,1.5
+Asona,Triton Avant 15,1200,600,15,0.85,,,,1-S,,0.45,1.5
+Asona,Triton Avant 15,600,600,15,0.85,,,,1-S,,0.45,1.5
+Eurocoustic,Minerval,1200,600,15,,,,,,,,1.6
+Eurocoustic,Minerval,600,600,15,,,,,,,,1.6
+Eurocoustic,Acoustichoc A22,1200,600,25,,,,,,,,2.1
+Eurocoustic,Tonga,1200,600,20,,,,,,,,2.2
+Eurocoustic,Tonga,1200,600,22,,,,,,,,2.2
+Eurocoustic,Tonga,600,600,20,,,,,,,,2.2
+Eurocoustic,Tonga,600,600,22,,,,,,,,2.2
+Eurocoustic,Tonga Ultraclean HP,1200,600,22,,,,,,,,2.2
+Eurocoustic,Tonga Ultraclean HP,600,600,22,,,,,,,,2.2
+Eurocoustic,Tonga Ultraclean A22,1200,600,22,,,,,,,,2.7
+Eurocoustic,Tonga Ultraclean A22,600,600,22,,,,,,,,2.7
+Asona,Triton 50,1200,600,50,1,30,,,1-S,,1.47,2.7
+Asona,Triton 50,600,600,50,1,30,,,1-S,,1.47,2.7
+Asona,Triton 50,2400,600,50,1,30,,,1-S,,1.47,2.7
+Asona,Triton 50,1200,1200,50,1,30,,,1-S,,1.47,2.7
+Armstrong,Ultima OP,1200,600,15,0.85,29,,,1-S,,,2.9
+Armstrong,Ultima OP,600,600,15,0.85,29,,,1-S,,,2.9
+AMF,Thermatex Thermofon,1200,600,15,0.85,28,,,1-S,0.038,,2.9
+AMF,Thermatex Thermofon Black,1200,600,15,0.85,28,,,1-S,0.08,,2.9
+AMF,Thermatex Antaris A,1200,600,19,0.9,26,,,1-S,0.04,,3
+AMF,Thermatex Antaris A,600,600,19,0.9,26,,,1-S,0.04,,3
+Armstrong,Fine Fissured,1200,600,16,0.6,35,,,1-S,,,3.1
+Armstrong,Fine Fissured,600,600,16,0.6,35,,,1-S,,,3.1
+Eurocoustic,Tonga,1200,600,40,,,,,,,,3.1
+Eurocoustic,Tonga,600,600,40,,,,,,,,3.1
+OWA,Sinfonia,1200,600,15,0.85,30,,,1-S,,,3.3
+OWA,Sinfonia,600,600,15,0.85,30,,,1-S,,,3.3
+OWA,Humancare Sinfonia,1200,600,15,0.85,30,,,1-S,,,3.3
+OWA,Humancare Sinfonia,600,600,15,0.85,30,,,1-S,,,3.3
+OWA,Humancare Pro,1200,600,20,0.95,24,,,1-S,,,3.3
+OWA,Humancare Pro,600,600,20,0.95,24,,,1-S,,,3.3
+Armstrong,Dune,1200,600,16,0.5,33,,,1-S,,,3.5
+Armstrong,Dune,600,600,16,0.5,33,,,1-S,,,3.5
+Armstrong,Ultima OP,1200,600,20,0.95,26,,,1-S,,,3.5
+Armstrong,Ultima OP,600,600,20,0.95,26,,,1-S,,,3.5
+AMF,Thermatex Star,1200,600,15,0.6,34,21,,1-S,0.057,,3.8
+AMF,Thermatex Star,600,600,15,0.6,34,21,,1-S,0.057,,3.8
+Armstrong,Fine Fissured High Acoustic,1200,600,15,0.7,35,,,1-S,,,3.9
+Asona,Triton 30HD,1200,600,30,0.95,30,,,1-S,,0.88,3.9
+Asona,Triton 30HD,600,600,30,0.95,30,,,1-S,,0.88,3.9
+Asona,Triton 30HD,2400,600,30,0.95,30,,,1-S,,0.88,3.9
+Asona,Triton 30HD,1200,1200,30,0.95,30,,,1-S,,0.88,3.9
+Asona,Triton 75,1200,600,75,1.05,,,,1-S,,2.2,3.9
+Asona,Triton 75,600,600,75,1.05,,,,1-S,,2.2,3.9
+AMF,Thermatex Alpha One,1200,600,24,1,29,,,1-S,0.04,,4
+AMF,Thermatex Alpha One,600,600,24,1,29,,,1-S,0.04,,4
+AMF,Thermatex Star Complete,1200,600,15,0.7,34,,,1-S,0.057,,4
+AMF,Thermatex Star Complete,1200,600,15,0.7,34,,,1-S,0.057,,4
+AMF,Thermatex Thermaclean S,1200,600,15,0.15,34,,,,0.057,,4
+USG,Impressions ClimaPlus,1200,600,,,,,,,,,4
+USG,Radar ClimaPlus,1200,600,,,,,,,,,4
+OWA,Sinfonia C,1200,600,15,0.7,34,,,1-S,,,4
+OWA,Sinfonia C,600,600,15,0.7,34,,,1-S,,,4
+OWA,Humancare Sinfonia C,1200,600,15,0.7,34,,,1-S,,,4
+OWA,Humancare Sinfonia C,600,600,15,0.7,34,,,1-S,,,4
+Eurocoustic,Acoustichoc A40,1200,600,40,,,,,,,,4.3
+Eurocoustic,Acoustichoc A40,1500,1000,40,,,,,,,,4.3
+Eurocoustic,Acoustichoc A40,1200,600,40,,,,,,,,4.3
+Asona,Triton Sports 40,1200,600,40,0.95,,,,1-S,,1.35,4.3
+Asona,Triton Sports 40,2400,600,40,0.95,,,,1-S,,1.35,4.3
+Asona,Triton Sports 40,1200,1200,40,0.95,,,,1-S,,1.35,4.3
+Eurocoustic,Tonga Ultraclean A40,1200,600,40,,,,,,,,4.4
+Eurocoustic,Tonga Ultraclean A40,600,600,40,,,,,,,,4.4
+OWA,Sinfonia Balance,1200,600,20,0.8,37,,,1-S,,,4.4
+OWA,Sinfonia Balance,600,600,20,0.8,37,,,1-S,,,4.4
+OWA,Humancare Plus,1200,600,20,0.9,30,,,1-S,,,4.4
+OWA,Humancare Plus,600,600,20,0.9,30,,,1-S,,,4.4
+USG,Mars ClimaPlus,1200,600,,,,,,,,,4.7
+USG,Rockface ClimaPlus,1200,600,,,,,,,,,4.9
+Armstrong,Ultima,1200,600,19,0.7,40,,,1-S,,,5
+Armstrong,Ultima,600,600,19,0.7,40,,,1-S,,,5
+Armstrong,Bioguard Acoustic,1200,600,17,0.7,40,,,1-S,,,5
+Armstrong,Bioguard Acoustic,600,600,17,0.7,40,,,1-S,,,5
+AMF,Thermatex Acoustic,1200,600,19,0.7,38,22,,1-S,0.057,,5
+AMF,Thermatex Acoustic,600,600,19,0.7,38,22,,1-S,0.057,,5
+Asona,Triton 50HD,1200,600,50,1,35,,14,1-S,,1.47,5.1
+Asona,Triton 50HD,600,600,50,1,35,,14,1-S,,1.47,5.1
+Asona,Triton 50HD,2400,600,50,1,35,,14,1-S,,1.47,5.1
+Asona,Triton 50HD,1200,1200,50,1,35,,14,1-S,,1.47,5.1
+Asona,Triton 100,1200,600,100,1.05,,,,1-S,,3,5.1
+Asona,Triton 100,600,600,100,1.05,,,,1-S,,3,5.1
+Armstrong,Dune Max,1200,600,20,0.7,33,,,1-S,,,5.2
+Armstrong,Dune Max,600,600,20,0.7,33,,,1-S,,,5.2
+Armstrong,Bioguard Acoustic OP RH100,1200,600,19,0.9,29,,,1-S,,,5.2
+AMF,Thermatex Alpha HD,1200,600,19,0.85,34,,,1-S,0.057,,5.2
+AMF,Thermatex Aquatec,1200,600,19,0.9,29,16,,1-S,0.04,,5.2
+GIB,10 mm 20% GIB-Tone,1200,600,10,,,,,,,,5.3
+Eurocoustic,Tonga Therm A80,1200,600,77,,,,,,,,5.6
+USG,Radar ClimaPlus Firecode,1200,600,,,,,,,,,5.6
+OWA,Humancare Lab,1200,600,20,0.7,34,,,1-S,,,5.6
+OWA,Humancare Lab,600,600,20,0.7,34,,,1-S,,,5.6
+USG,Radar ClimaPlus Hi-NRC,1200,600,,,,,,,,,5.8
+GIB,10 mm 10% GIB-Tone,1200,600,10,,,,,,,,6
+Fenta,Hygiene,1200,600,6,,,,,1-S,,,6.3
+OWA,Sinfonia Privacy,1200,600,20,0.7,41,,,1-S,,,6.4
+OWA,Sinfonia Privacy,600,600,20,0.7,41,,,1-S,,,6.4
+OWA,Humancare Sinfonia Privacy,1200,600,20,0.7,41,,,1-S,,,6.4
+OWA,Humancare Sinfonia Privacy,600,600,20,0.7,41,,,1-S,,,6.4
+Asona,Gypclean,1200,600,10,,,,,1-S,,,6.8
+Asona,Gypclean,600,600,10,,,,,1-S,,,6.8
+Asona,Triton Duo 46,1200,600,46,0.85,41,,,1-S,,1.25,7.3
+Asona,Triton Duo 46,600,600,46,0.85,41,,,1-S,,1.25,7.3
+Armstrong,Perla dB,1200,600,,,,,,,,,7.8
+Asona,Diffusion,1200,600,12,0.1,,,,1-S,,0.1,8
+Asona,Diffusion,600,600,12,0.1,,,,1-S,,0.1,8
+Asona,Pyramid,600,600,200,,,,,1-S,,0.1,8
+Armstrong,Ultima OPDB,1200,600,30,0.9,41,,,1-S,,,8.2
+AMF,Thermatex Alpha HD,1200,600,30,0.9,40,,,1-S,0.057,,8.2
+Asona,Triton Duo 35,1200,600,35,0.75,44,,20,1-S,,0.74,8.3
+Asona,Triton Duo 35,600,600,35,0.75,44,,20,1-S,,0.74,8.3
+AMF,Thermatex SF Acoustic,600,600,24,0.7,39,,,1-S,0.057,,8.4
+AMF,Thermatex DB Acoustic,1200,600,24,0.7,41,24,,1-S,0.057,,8.6
+AMF,Thermatex DB Acoustic,600,600,24,0.7,41,24,,1-S,0.057,,8.6
+Asona,Triton Duo 50,1200,600,50,0.85,43,,22,1-S,,1.4,9
+Asona,Triton Duo 50,600,600,50,0.85,43,,22,1-S,,1.4,9
+Knauf,Danoline Belgravia,600,600,12.5,0.6,,,,1-S,,,9.2
+AMF,Thermatex Alpha HD,1200,600,35,0.85,42,,,1-S,0.057,,9.5
+Asona,Triton Duo 60,1200,600,60,0.95,44,,20,1-S,,1.4,9.5
+Asona,Triton Duo 60,600,600,60,0.95,44,,20,1-S,,1.4,9.5
+Asona,Triton Defender 50,1200,600,50,0.85,,,,1-S,,1.4,9.5
+Asona,Triton Defender 50,600,600,50,0.85,,,,1-S,,1.4,9.5
+Asona,Triton Defender 50,2400,600,50,0.85,,,,1-S,,1.4,9.5
+Asona,Triton Defender 50,1200,1200,50,0.85,,,,1-S,,1.4,9.5
+Asona,Sonawood,1200,600,12,0.1,,,,"1-S, 2-S, 3",,,10.3
+Asona,Sonawood,1200,600,12,0.8,,,,"1-S, 2-S, 3",,,10.3
+AMF,Thermatex Silence,1200,600,43,0.9,45,,,1-S,0.057,,10.8
+Asona,Triton Trio 85,1200,600,85,0.95,48,,25,1-S,,2,11.9
+Asona,Triton Trio 85,600,600,85,0.95,48,,25,1-S,,2,11.9
+Asona,Polyfon Mesh,1200,600,10,0.3,,,,1-S,,0.45,1.5
+Asona,Polyfon Mesh,600,600,10,0.3,,,,1-S,,0.45,1.5
+Asona,Polyfon 40,1200,600,40,0.95,,,,1-S,,1.1,2.0
+Asona,Polyfon 40,600,600,40,0.95,,,,1-S,,1.1,2.0
+Asona,Polyfon 40,1200,1200,40,0.95,,,,1-S,,1.1,2.0
+Asona,MetaPan P series,600,600,10,0.1,,,,1-S,,,3.0
+Asona,MetaPan P series,600,600,15,0.1,,,,1-S,,,3.0
+Asona,MetaPan P series,600,600,20,0.1,,,,1-S,,,3.0
+Asona,MetaPan P series,600,600,30,0.1,,,,1-S,,,3.0
+Asona,MetaPan P series,600,600,10,0.75,,,,1-S,,,3.0
+Asona,MetaPan P series,600,600,15,0.75,,,,1-S,,,3.0
+Asona,MetaPan P series,600,600,20,0.75,,,,1-S,,,3.0
+Asona,MetaPan P series,600,600,30,0.75,,,,1-S,,,3.0
