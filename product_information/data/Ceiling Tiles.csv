@@ -11,8 +11,8 @@ Asona,Triton 25,2400,600,25,0.95,22,,,1-S,,0.7,1.5
 Asona,Triton 25,1200,1200,25,0.95,22,,,1-S,,0.7,1.5
 Asona,Triton Hygiene 25,1200,600,25,0.9,22,,,2-S,,0.74,1.5
 Asona,Triton Hygiene 25,600,600,25,0.9,22,,,2-S,,0.74,1.5
-Asona,Triton Avant 15,1200,600,15,0.85,,,,1-S,,0.45,1.5
-Asona,Triton Avant 15,600,600,15,0.85,,,,1-S,,0.45,1.5
+Asona,Triton Avant 15,1200,600,15,0.90,,,,1-S,,0.45,1.5
+Asona,Triton Avant 15,600,600,15,0.90,,,,1-S,,0.45,1.5
 Eurocoustic,Minerval,1200,600,15,,,,,,,,1.6
 Eurocoustic,Minerval,600,600,15,,,,,,,,1.6
 Eurocoustic,Acoustichoc A22,1200,600,25,,,,,,,,2.1
@@ -88,10 +88,10 @@ Armstrong,Bioguard Acoustic,1200,600,17,0.7,40,,,1-S,,,5
 Armstrong,Bioguard Acoustic,600,600,17,0.7,40,,,1-S,,,5
 AMF,Thermatex Acoustic,1200,600,19,0.7,38,22,,1-S,0.057,,5
 AMF,Thermatex Acoustic,600,600,19,0.7,38,22,,1-S,0.057,,5
-Asona,Triton 50HD,1200,600,50,1,35,,14,1-S,,1.47,5.1
-Asona,Triton 50HD,600,600,50,1,35,,14,1-S,,1.47,5.1
-Asona,Triton 50HD,2400,600,50,1,35,,14,1-S,,1.47,5.1
-Asona,Triton 50HD,1200,1200,50,1,35,,14,1-S,,1.47,5.1
+Asona,Triton 50HD,1200,600,50,0.95,35,,14,1-S,,1.47,5.1
+Asona,Triton 50HD,600,600,50,0.95,35,,14,1-S,,1.47,5.1
+Asona,Triton 50HD,2400,600,50,0.95,35,,14,1-S,,1.47,5.1
+Asona,Triton 50HD,1200,1200,50,0.95,35,,14,1-S,,1.47,5.1
 Asona,Triton 100,1200,600,100,1.05,,,,1-S,,3,5.1
 Asona,Triton 100,600,600,100,1.05,,,,1-S,,3,5.1
 Armstrong,Dune Max,1200,600,20,0.7,33,,,1-S,,,5.2
@@ -132,10 +132,10 @@ Knauf,Danoline Belgravia,600,600,12.5,0.6,,,,1-S,,,9.2
 AMF,Thermatex Alpha HD,1200,600,35,0.85,42,,,1-S,0.057,,9.5
 Asona,Triton Duo 60,1200,600,60,0.95,44,,20,1-S,,1.4,9.5
 Asona,Triton Duo 60,600,600,60,0.95,44,,20,1-S,,1.4,9.5
-Asona,Triton Defender 50,1200,600,50,0.85,,,,1-S,,1.4,9.5
-Asona,Triton Defender 50,600,600,50,0.85,,,,1-S,,1.4,9.5
-Asona,Triton Defender 50,2400,600,50,0.85,,,,1-S,,1.4,9.5
-Asona,Triton Defender 50,1200,1200,50,0.85,,,,1-S,,1.4,9.5
+Asona,Triton Defender 50,1200,600,50,0.85,35,,,1-S,,1.4,9.5
+Asona,Triton Defender 50,600,600,50,0.85,35,,,1-S,,1.4,9.5
+Asona,Triton Defender 50,2400,600,50,0.85,35,,,1-S,,1.4,9.5
+Asona,Triton Defender 50,1200,1200,50,0.85,35,,,1-S,,1.4,9.5
 Asona,Sonawood,1200,600,12,0.1,,,,"1-S, 2-S, 3",,,10.3
 Asona,Sonawood,1200,600,12,0.8,,,,"1-S, 2-S, 3",,,10.3
 AMF,Thermatex Silence,1200,600,43,0.9,45,,,1-S,0.057,,10.8
