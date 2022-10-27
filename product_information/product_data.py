@@ -29,10 +29,3 @@ def gripple():
     path = importlib.resources.open_text(data, "Gripple.csv")
 
     return pd.read_csv(path)
-
-def systems():
-    """Return a dataframe containing systems data"""
-
-    path = importlib.resources.open_text(data, "systems.csv")
-
-    return pd.read_csv(path)
