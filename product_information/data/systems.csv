@@ -1,5 +1,5 @@
 Manufacturer,Name,Edge Type,Thickness (mm),Width (mm),Length (mm),Weight (kg/sqm),NRC,alpha w,Fire Rating,STC,Rw,IIC,Top Cross Rails Capacity (N),Top Cross Rails Weight (kg/m),Top Cross Rails Spacing (mm),Furring Channel Capacity (N),Furring Channel Weight (kg/m),Furring Channel Spacing (mm),Perimeter Restraint,Perimeter Restraint Capacity (N)
-NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+-,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 GIB,Fyreline GBSC 30,TE/TE,13,1200,2400,11,,,30/30/30,48,47,43,950,0.378,1200,650,0.468,600,FC140-142,1300
 GIB,Fyreline GBSC 30,TE/TE,13,1200,2700,11,,,30/30/30,48,47,43,950,0.378,1200,650,0.468,600,FC140-143,1301
 GIB,Fyreline GBSC 30,TE/TE,13,1200,3000,11,,,30/30/30,48,47,43,950,0.378,1200,650,0.468,600,FC140-144,1302
