@@ -1,0 +1,12 @@
+Index,Manufacturer,Name,Top Cross Rails Capacity (N),Top Cross Rails Weight (kg/m),Furring Channel Capacity (N),Furring Channel Weight (kg/m),Perimeter Restraint,Perimeter Restraint Capacity (N)
+0,Rondo,Keylock - 125 TCR - 129 FC,950,0.378,650,0.468,FC140-142,1300
+1,,Keylock - 127 TCR - 129 FC,950,0.516,650,0.468,FC140-142,1300
+2,,Keylock - 128 TCR - 129 FC,950,0.661,650,0.468,FC140-142,1300
+3,,Rondo Xpress XD21200 - Rondo Xpress XD20600 ,1000,0.67,650,0.468,FC140-142,1300
+4,USG ,Screwfix 16 - 28mm,1000,0.661,650,0.468,8G 16TPI TEK,1300
+5,studco,M25 TCR - M29 FC,950,0.39,650,0.51,M40 - 42,1300
+6,,M27 TCR - M29 FC,950,0.53,650,0.51,M40 - 42,1300
+7,,M28 TCR - M29 FC,950,0.69,650,0.51,M40 - 42,1300
+8,,M25 TCR - M308 FC,950,0.39,650,0.4,M40 - 42,1300
+9,,M27 TCR - M308 FC,950,0.53,650,0.4,M40 - 42,1300
+10,,M28 TCR - M308 FC,950,0.69,650,0.4,M40 - 42,1300
