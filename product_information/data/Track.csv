@@ -1,0 +1,16 @@
+﻿Manufacturer,,Track,Thickness (mm),Width (mm),Weight (kg/m),Zfy (mm^3),Zfz (mm^3),Af (mm^2),Iy (mm^4),Iz (mm^4),J (mm^4),Zex (mm^3),Zey (mm^3),Ae (mm^2)
+Rondo,Steel Track,51 x 0.5 BMT,0.5,51,0.48,,,,,,,,,
+,Steel Track,64 x 0.5 BMT,0.5,64,0.53,1366,280,64,44300,6700,5,1014,151,56
+,Steel Track,76 x 0.5 BMT,0.5,76,0.59,,,,,,,,,
+,Steel Track,92 x 0.5 BMT,0.5,92,0.65,,,,,,,,,
+,Steel Track,51 x 0.7 BMT,0.7,51,0.7,,,,,,,,,
+,Steel Track,64 x 0.7 BMT,0.7,64,0.73,1816,418,89,59377,8726,17,1197,225,76
+,Steel Track,76 x 0.7 BMT,0.7,76,0.8,,,,,,,,,
+,Steel Track,92 x 0.7 BMT,0.7,92,0.89,3020,436,110,144091,9752,21,2090,233,96
+,Deflection Head Track,64 x 1.15 BMT,1.15,64,1.52,,,,,,,,,
+,Deflection Head Track,76 x 1.15 BMT,1.15,76,1.66,,,,,,,,,
+,Deflection Head Track,92 x 1.15 BMT,1.15,92,1.79,,,,,,,,,
+,Deflection Head Track,150 x 1.15 BMT,1.15,150,2.33,,,,,,,,,
+,Steel Track,64 x 1.15 BMT,1.15,64,1.15,,,,,,,,,
+,Steel Track,76 x 1.15 BMT,1.15,76,1.27,,,,,,,,,
+,Steel Track,92 x 1.15 BMT,1.15,92,1.43,,,,,,,,,
