@@ -1,0 +1,42 @@
+ID,Lining,Weight (kg/sqm)
+0,Other lining (weight to be entered using manual input),0
+1,No lining,0
+2,10mm Standard Plasterboard,7
+3,13mm Standard Plasterboard,9
+4,16 mm Standard Plasterboard,15
+5,12mm MDF,8.5
+6,18mm MDF,12.6
+7,12mm Ply,6.7
+8,15mm Ply,8.5
+9,19mm Ply,10.5
+10,10mm Noise Resistant Plasterboard,9.3
+11,13mm Noise Resistant Plasterboard,12.5
+12,10mm Water Resistant Plasterboard,8
+13,13mm Water Resistant Plasterboard,10.2
+14,13mm Fire Resistant Plasterboard,11
+15,16mm Fire Resistant Plasterboard,15.3
+16,10mm Bracing Plasterboard,9.7
+17,13mm Bracing Plasterboard,12.5
+18,16mm Bracing Plasterboard,14.6
+19,13mm GIB Ultraline,9.1
+20,10% GIB Quietline,8.3
+21,20% GIB Quietline,7.4
+22,Boral Echstop,10
+23,Asona Stratopanel,10.5
+24,13mm High Impact Plasterboard,11.7
+25,16mm High Impact Plasterboard,14.6
+26,FIBRE CEMENT 6mm,8
+27,9mm Ply,5.4
+28,"METAL SHEETING, GALVANISED 0.9mm",7.07
+29,FIBRE CEMENT 9mm,12
+30,FIBRE CEMENT 12mm,16
+31,METAL PLATE - STAINLESS STEEL 2mm,15.6
+32,FIBER CEMENT 6mm (RAB),8.6
+33,Potters E Series 105 - 6 mm single glazing,15
+34,Potters E Series 105 - 8 mm single glazing,20
+35,Potters E Series 105 - 10 mm single glazing,25
+36,Potters E Series 105 - 13 mm single glazing,30
+37,Potters E Series 105 - 6 mm double glazing,30
+38,Potters E Series 105 - 8 mm double glazing,40
+39,Potters E Series 105 - 10 mm double glazing,50
+40,Potters E Series 105 - 13 mm double glazing,60
