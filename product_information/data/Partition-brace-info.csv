@@ -1,9 +1,10 @@
-Brace type,Horizontal capacity (kg),Deflection head track requirement,,,,
-Tracklok,210,Deflection head track required to allow for vertical movement of structure above,,,,
-Tracklok Retro,210,Deflection head track required to allow for vertical movement of structure above,,,,
-Tracklok Timba,210,Deflection head track required to allow for vertical movement of structure above,,,,
-Tracklok Vert,210,Deflection head track required to allow for vertical movement of structure above,,,,
-Tracklok Flat,210,Deflection head track required to allow for vertical movement of structure above,,,,
-Deflok Retro,210,Deflection head track not required - brace allows for vertical movement of structure above,,,,
-Deflok Timber,210,Deflection head track not required - brace allows for vertical movement of structure above,,,,
-Deflok Vert,210,Deflection head track not required - brace allows for vertical movement of structure above,,,,
+Brace type,Horizontal capacity (kg),Deflection head track requirement
+Not specified,210,NA
+Tracklok,210,Deflection head track required to allow for vertical movement of structure above
+Tracklok Retro,210,Deflection head track required to allow for vertical movement of structure above
+Tracklok Timba,210,Deflection head track required to allow for vertical movement of structure above
+Tracklok Vert,210,Deflection head track required to allow for vertical movement of structure above
+Tracklok Flat,210,Deflection head track required to allow for vertical movement of structure above
+Deflok Retro,210,Deflection head track not required - brace allows for vertical movement of structure above
+Deflok Timber,210,Deflection head track not required - brace allows for vertical movement of structure above
+Deflok Vert,210,Deflection head track not required - brace allows for vertical movement of structure above
