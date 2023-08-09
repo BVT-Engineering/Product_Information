@@ -1,5 +1,5 @@
 ID,Manufacturer,Systems,Name of Systems,FRR,STC (ASTM E413),Rw (db - EN ISO E989),IIC (ASTM E989),Name of Lining Side 1-1,Name of Lining Side 1-2,Name of Lining Side 1-3,Name of Lining Side 2-1,Name of Lining Side 2-2,Name of Lining Side 2-3,Name of Linings,Weight (kg/sqm),LB/NLB,Studs width (mm),Stud spacing max (mm)
-0,Not specified,Not specified,Not specified,-,-,-,-,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,0,Not specified,-,-
+0,Not specified,Not specified,Not specified,-,-,-,-,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,10,Not specified,35,600
 1,GIB,Fire Rated Wall Systems - timber frame,GBSm 10,10/10/10,-,-,-,10mm GIB plasterboard,-,-,10mm GIB plasterboard,-,-,1 x 10mm GIB plasterboard each side,7,-,35,600
 2,GIB,Fire Rated Wall Systems - timber frame,GBTL 30,30/30/30,33,34,-,10mm GIB Fyreline,-,-,10mm GIB Fyreline,-,-,1 x 10mm GIB Fyreline each side,9,Load bearing,35,600
 3,GIB,Fire Rated Wall Systems - timber frame,GBTL 30b,30/30/30,35,35,-,13mm GIB Standard,-,-,13mm GIB Standard,-,-,1 x 13mm GIB Standard each side,9,Load bearing,35,600
