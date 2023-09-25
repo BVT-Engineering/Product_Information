@@ -13,3 +13,5 @@ Typically product specifications are based on the following heirachy of informat
 If we have any information that is incorrect or out of date, please submit up to date information to us as soon as possible. Thanks!
 
 Note: there's also a method to immediately upload any changes to the Prenguin.com engineering platform.
+
+Important: Prenguin cloud functions will not recognise the updated csv files until the version number is updated, and the cloud functions are re-deployed.
