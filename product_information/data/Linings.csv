@@ -26,6 +26,7 @@ GIB,1 x 10mm Standard Plasterboard wideline,TE/SE,10,1350,3600,7,,,,,,,22
 GIB,1 x 10mm Standard Plasterboard wideline,TE/SE,10,1350,4800,7,,,,,,,23
 GIB,1 x 10mm Standard Plasterboard wideline,TE/SE,10,1350,6000,7,,,,,,,24
 GIB,1 x 13mm Standard Plasterboard wideline,TE/SE,13,1350,4800,9,,,,,,,25
+GIB,2 x 13mm Standard Plasterboard,TE/TE,26,1200,2400,18,,,,,,,11
 GIB,1 x 10mm Noiseline,TE/TE,10,1200,2400,9.3,,,,,,,26
 GIB,1 x 10mm Noiseline,TE/TE,10,1200,2700,9.3,,,,,,,27
 GIB,1 x 10mm Noiseline,TE/TE,10,1200,3000,9.3,,,,,,,28
@@ -93,6 +94,8 @@ GIB,1 x 25mm GIB Barrierline,SE/SE,25,600,3000,20.2,,,,,,,89
 GIB,1 x 13mm GIB X-Block,TE/TE,13,1200,2400,18.3,,,,,,,90
 GIB,1 x 13mm GIB X-Block,TE/TE,13,1200,3000,18.3,,,,,,,91
 GIB,1 x 13mm GIB Quietline,,13,1200,2400,8.3,,,,,,,92
+James Hardie,1 x 4.5mm HardieSoffit Lining,TE/TE,4.5,1200,2400,6.5,,,,,,,11
+James Hardie,1 x 4.5mm HardieFlex Eves Lining,TE/TE,4.5,1200,2400,6.5,,,,,,,11
 Asona,1 x 12.5mm Asona Knauf Danolife Stratopanel,,12.5,1200,2000,8.7,,,,,,,93
 Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,2400,8.9,,,,,,,94
 Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,2700,8.9,,,,,,,95
