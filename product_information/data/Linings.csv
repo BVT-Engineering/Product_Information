@@ -26,6 +26,7 @@ GIB,1 x 10mm Standard Plasterboard wideline,TE/SE,10,1350,3600,7,,,,,,,22
 GIB,1 x 10mm Standard Plasterboard wideline,TE/SE,10,1350,4800,7,,,,,,,23
 GIB,1 x 10mm Standard Plasterboard wideline,TE/SE,10,1350,6000,7,,,,,,,24
 GIB,1 x 13mm Standard Plasterboard wideline,TE/SE,13,1350,4800,9,,,,,,,25
+GIB,2 x 13mm Standard Plasterboard,TE/TE,26,1200,2400,18,,,,,,,11
 GIB,1 x 10mm Noiseline,TE/TE,10,1200,2400,9.3,,,,,,,26
 GIB,1 x 10mm Noiseline,TE/TE,10,1200,2700,9.3,,,,,,,27
 GIB,1 x 10mm Noiseline,TE/TE,10,1200,3000,9.3,,,,,,,28
@@ -93,69 +94,71 @@ GIB,1 x 25mm GIB Barrierline,SE/SE,25,600,3000,20.2,,,,,,,89
 GIB,1 x 13mm GIB X-Block,TE/TE,13,1200,2400,18.3,,,,,,,90
 GIB,1 x 13mm GIB X-Block,TE/TE,13,1200,3000,18.3,,,,,,,91
 GIB,1 x 13mm GIB Quietline,,13,1200,2400,8.3,,,,,,,92
+James Hardie,1 x 4.5mm HardieSoffit Lining,TE/TE,4.5,1200,2400,6.5,,,,,,,11
+James Hardie,1 x 4.5mm HardieFlex Eves Lining,TE/TE,4.5,1200,2400,6.5,,,,,,,11
 Asona,1 x 12.5mm Asona Knauf Danolife Stratopanel,,12.5,1200,2000,8.7,,,,,,,93
-Elephant,1 x 13mm Elephant Standard,TE/TE,13,1200,2400,8.9,,,,,,,94
-Elephant,1 x 13mm Elephant Standard,TE/TE,13,1200,2700,8.9,,,,,,,95
-Elephant,1 x 13mm Elephant Standard,TE/TE,13,1200,3000,8.9,,,,,,,96
-Elephant,1 x 13mm Elephant Standard,TE/TE,13,1200,3300,8.9,,,,,,,97
-Elephant,1 x 13mm Elephant Standard,TE/TE,13,1200,3600,8.9,,,,,,,98
-Elephant,1 x 13mm Elephant Standard,TE/TE,13,1200,4200,8.9,,,,,,,99
-Elephant,1 x 13mm Elephant Standard,TE/TE,13,1200,4800,8.9,,,,,,,100
-Elephant,1 x 13mm Elephant Standard,TE/TE,13,1200,6000,8.9,,,,,,,101
-Elephant,1 x 10mm Elephant Standard plus,TE/TE,10,1200,2400,7.4,,,,,,,102
-Elephant,1 x 10mm Elephant Standard plus,TE/TE,10,1200,2700,7.4,,,,,,,103
-Elephant,1 x 10mm Elephant Standard plus,TE/TE,10,1200,3000,7.4,,,,,,,104
-Elephant,1 x 10mm Elephant Standard plus,TE/TE,10,1200,3300,7.4,,,,,,,105
-Elephant,1 x 10mm Elephant Standard plus,TE/TE,10,1200,3600,7.4,,,,,,,106
-Elephant,1 x 10mm Elephant Standard plus,TE/TE,10,1200,4200,7.4,,,,,,,107
-Elephant,1 x 10mm Elephant Standard plus,TE/TE,10,1200,4800,7.4,,,,,,,108
-Elephant,1 x 10mm Elephant Standard plus,TE/TE,10,1200,6000,7.4,,,,,,,109
-Elephant,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,2400,7.4,,,,,,,110
-Elephant,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,3000,7.4,,,,,,,111
-Elephant,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,3600,7.4,,,,,,,112
-Elephant,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,4200,7.4,,,,,,,113
-Elephant,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,4800,7.4,,,,,,,114
-Elephant,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,6000,7.4,,,,,,,115
-Elephant,1 x 10mm Wide Horizontal Standard,TE/SE,10,1350,3600,7.4,,,,,,,116
-Elephant,1 x 10mm Wide Horizontal Standard,TE/SE,10,1350,4800,7.4,,,,,,,117
-Elephant,1 x 10mm Wide Horizontal Standard,TE/SE,10,1350,6000,7.4,,,,,,,118
-Elephant,1 x 10mm Multismart,TE/TE,10,1200,2400,9,,,,,,,119
-Elephant,1 x 10mm Multismart,TE/TE,10,1200,2700,9,,,,,,,120
-Elephant,1 x 10mm Multismart,TE/TE,10,1200,3000,9,,,,,,,121
-Elephant,1 x 10mm Multismart,TE/TE,10,1200,3600,9,,,,,,,122
-Elephant,1 x 10mm Multismart,TE/TE,10,1200,4800,9,,,,,,,123
-Elephant,1 x 10mm Horizontal MultiSmart,TE/SE,10,1200,4800,9,,,,,,,124
-Elephant,1 x 13mm Multismart,TE/TE,13,1200,2400,11.8,,,,,,,125
-Elephant,1 x 13mm Multismart,TE/TE,13,1200,2700,11.8,,,,,,,126
-Elephant,1 x 13mm Multismart,TE/TE,13,1200,3000,11.8,,,,,,,127
-Elephant,1 x 13mm Multismart,TE/TE,13,1200,3300,11.8,,,,,,,128
-Elephant,1 x 13mm Multismart,TE/TE,13,1200,3600,11.8,,,,,,,129
-Elephant,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,2400,7.4,,,,,,,130
-Elephant,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,2700,7.4,,,,,,,131
-Elephant,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,3000,7.4,,,,,,,132
-Elephant,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,3300,7.4,,,,,,,133
-Elephant,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,3600,7.4,,,,,,,134
-Elephant,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,4200,7.4,,,,,,,135
-Elephant,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,4800,7.4,,,,,,,136
-Elephant,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,6000,7.4,,,,,,,137
-Elephant,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,2400,11.8,,,,,,,138
-Elephant,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,2700,11.8,,,,,,,139
-Elephant,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,3000,11.8,,,,,,,140
-Elephant,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,3300,11.8,,,,,,,141
-Elephant,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,3600,11.8,,,,,,,142
-Elephant,1 x 16mm Firesmart,TE/TE,16,1200,3000,14.2,,,,,,,143
-Elephant,1 x 16mm Firesmart,TE/TE,16,1200,3300,14.2,,,,,,,144
-Elephant,1 x 16mm Firesmart,TE/TE,16,1200,3600,14.2,,,,,,,145
-Elephant,1 x 10mm Aquasmart,TE/TE,10,1200,2400,8.4,,,,,,,146
-Elephant,1 x 10mm Aquasmart,TE/TE,10,1200,2700,8.4,,,,,,,147
-Elephant,1 x 10mm Aquasmart,TE/TE,10,1200,3000,8.4,,,,,,,148
-Elephant,1 x 10mm Aquasmart,TE/TE,10,1200,3600,8.4,,,,,,,149
-Elephant,1 x 10mm Horizontal Aquasmart,TE/SE,10,1200,2400,8.4,,,,,,,150
-Elephant,1 x 10mm Horizontal Aquasmart,TE/SE,10,1200,4800,8.4,,,,,,,151
-Elephant,1 x 13mm Aquasmart,TE/TE,13,1200,2400,11.5,,,,,,,152
-Elephant,1 x 13mm Aquasmart,TE/TE,13,1200,2700,11.5,,,,,,,153
-Elephant,1 x 13mm Aquasmart,TE/TE,13,1200,3000,11.5,,,,,,,154
-Elephant,1 x 13mm Aquasmart,TE/TE,13,1200,3600,11.5,,,,,,,155
+Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,2400,8.9,,,,,,,94
+Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,2700,8.9,,,,,,,95
+Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,3000,8.9,,,,,,,96
+Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,3300,8.9,,,,,,,97
+Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,3600,8.9,,,,,,,98
+Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,4200,8.9,,,,,,,99
+Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,4800,8.9,,,,,,,100
+Elephent ,1 x 13mm Elephent Standard,TE/TE,13,1200,6000,8.9,,,,,,,101
+Elephent ,1 x 10mm Elephent Standard plus,TE/TE,10,1200,2400,7.4,,,,,,,102
+Elephent ,1 x 10mm Elephent Standard plus,TE/TE,10,1200,2700,7.4,,,,,,,103
+Elephent ,1 x 10mm Elephent Standard plus,TE/TE,10,1200,3000,7.4,,,,,,,104
+Elephent ,1 x 10mm Elephent Standard plus,TE/TE,10,1200,3300,7.4,,,,,,,105
+Elephent ,1 x 10mm Elephent Standard plus,TE/TE,10,1200,3600,7.4,,,,,,,106
+Elephent ,1 x 10mm Elephent Standard plus,TE/TE,10,1200,4200,7.4,,,,,,,107
+Elephent ,1 x 10mm Elephent Standard plus,TE/TE,10,1200,4800,7.4,,,,,,,108
+Elephent ,1 x 10mm Elephent Standard plus,TE/TE,10,1200,6000,7.4,,,,,,,109
+Elephent ,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,2400,7.4,,,,,,,110
+Elephent ,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,3000,7.4,,,,,,,111
+Elephent ,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,3600,7.4,,,,,,,112
+Elephent ,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,4200,7.4,,,,,,,113
+Elephent ,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,4800,7.4,,,,,,,114
+Elephent ,1 x 10mm Horizontal Standard Plus,TE/SE,10,1200,6000,7.4,,,,,,,115
+Elephent ,1 x 10mm Wide Horizontal Standard,TE/SE,10,1350,3600,7.4,,,,,,,116
+Elephent ,1 x 10mm Wide Horizontal Standard,TE/SE,10,1350,4800,7.4,,,,,,,117
+Elephent ,1 x 10mm Wide Horizontal Standard,TE/SE,10,1350,6000,7.4,,,,,,,118
+Elephent ,1 x 10mm Multismart,TE/TE,10,1200,2400,9,,,,,,,119
+Elephent ,1 x 10mm Multismart,TE/TE,10,1200,2700,9,,,,,,,120
+Elephent ,1 x 10mm Multismart,TE/TE,10,1200,3000,9,,,,,,,121
+Elephent ,1 x 10mm Multismart,TE/TE,10,1200,3600,9,,,,,,,122
+Elephent ,1 x 10mm Multismart,TE/TE,10,1200,4800,9,,,,,,,123
+Elephent ,1 x 10mm Horizontal MultiSmart,TE/SE,10,1200,4800,9,,,,,,,124
+Elephent ,1 x 13mm Multismart,TE/TE,13,1200,2400,11.8,,,,,,,125
+Elephent ,1 x 13mm Multismart,TE/TE,13,1200,2700,11.8,,,,,,,126
+Elephent ,1 x 13mm Multismart,TE/TE,13,1200,3000,11.8,,,,,,,127
+Elephent ,1 x 13mm Multismart,TE/TE,13,1200,3300,11.8,,,,,,,128
+Elephent ,1 x 13mm Multismart,TE/TE,13,1200,3600,11.8,,,,,,,129
+Elephent ,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,2400,7.4,,,,,,,130
+Elephent ,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,2700,7.4,,,,,,,131
+Elephent ,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,3000,7.4,,,,,,,132
+Elephent ,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,3300,7.4,,,,,,,133
+Elephent ,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,3600,7.4,,,,,,,134
+Elephent ,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,4200,7.4,,,,,,,135
+Elephent ,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,4800,7.4,,,,,,,136
+Elephent ,1 x 10mm Firesmart (Standard-Plus),TE/TE,10,1200,6000,7.4,,,,,,,137
+Elephent ,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,2400,11.8,,,,,,,138
+Elephent ,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,2700,11.8,,,,,,,139
+Elephent ,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,3000,11.8,,,,,,,140
+Elephent ,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,3300,11.8,,,,,,,141
+Elephent ,1 x 13mm Firesmart (Multismart),TE/TE,13,1200,3600,11.8,,,,,,,142
+Elephent ,1 x 16mm Firesmart,TE/TE,16,1200,3000,14.2,,,,,,,143
+Elephent ,1 x 16mm Firesmart,TE/TE,16,1200,3300,14.2,,,,,,,144
+Elephent ,1 x 16mm Firesmart,TE/TE,16,1200,3600,14.2,,,,,,,145
+Elephent ,1 x 10mm Aquasmart,TE/TE,10,1200,2400,8.4,,,,,,,146
+Elephent ,1 x 10mm Aquasmart,TE/TE,10,1200,2700,8.4,,,,,,,147
+Elephent ,1 x 10mm Aquasmart,TE/TE,10,1200,3000,8.4,,,,,,,148
+Elephent ,1 x 10mm Aquasmart,TE/TE,10,1200,3600,8.4,,,,,,,149
+Elephent ,1 x 10mm Horizontal Aquasmart,TE/SE,10,1200,2400,8.4,,,,,,,150
+Elephent ,1 x 10mm Horizontal Aquasmart,TE/SE,10,1200,4800,8.4,,,,,,,151
+Elephent ,1 x 13mm Aquasmart,TE/TE,13,1200,2400,11.5,,,,,,,152
+Elephent ,1 x 13mm Aquasmart,TE/TE,13,1200,2700,11.5,,,,,,,153
+Elephent ,1 x 13mm Aquasmart,TE/TE,13,1200,3000,11.5,,,,,,,154
+Elephent ,1 x 13mm Aquasmart,TE/TE,13,1200,3600,11.5,,,,,,,155
 Elephant,2 x 13mm Elephant Standard,TE/TE,13/13,1200,2400,17.8,,,,,,,156
 Elephant,2 x 13mm Elephant Standard,TE/TE,13/13,1200,2700,17.8,,,,,,,157
 Elephant,2 x 13mm Elephant Standard,TE/TE,13/13,1200,3000,17.8,,,,,,,158
