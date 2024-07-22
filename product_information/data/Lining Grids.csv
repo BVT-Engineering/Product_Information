@@ -1,26 +1,26 @@
 Manufacturer,Top Cross Rails Type,Furring Channels Type,Top Cross Rails Capacity (N),Top Cross Rails Weight (kg/m),Furring Channel Capacity (N),Furring Channel Weight (kg/m),Perimeter Restraint,Perimeter Restraint Capacity (N),Index
-Not Specified,Not Specified,Not Specified,950,0.378,650,0.468,Not Specified,1300,
-Rondo,Rondo Key-lock P125,Rondo Keylock Rondo P129,950,0.378,650,0.468,FC140-142,1300,0
-Rondo,Rondo Key-lock P127,Rondo Keylock Rondo P129,950,0.516,650,0.468,FC140-142,1300,1
-Rondo,Rondo Key-lock P128,Rondo Keylock Rondo P129,950,0.661,650,0.468,FC140-142,1300,2
-Rondo,Rondo Xpress XD21200,Rondo Xpress XD20600,1000,0.67,650,0.468,FC140-142,1300,3
-USG ,USGS Screwfix 16 - 28mm,USGS Screwfix 16 - 28mm,1000,0.661,650,0.468,8G 16TPI TEK,1300,4
-studco,Studco M25 TCR,Studco M29 FC,950,0.39,650,0.51,M40 - 42,1300,5
-studco,Studco M27 TCR,Studco M29 FC,950,0.53,650,0.51,M40 - 42,1300,6
-studco,Studco M28 TCR,Studco M308 FC,950,0.69,650,0.51,M40 - 42,1300,7
-studco,Studco M25 TCR,Studco M308 FC,950,0.39,650,0.4,M40 - 42,1300,8
-studco,Studco M27 TCR,Studco M308 FC,950,0.53,650,0.4,M40 - 42,1300,9
-studco,Studco M28 TCR,Studco M308 FC,950,0.69,650,0.4,M40 - 42,1300,10
-SRP,26x21mm TCR / 16mm Batten,16mm BATTEN,950,0.378,550,0.378,10G Tek @ 600 ctrs,1300,11
-SRP,38x12mm Strongback / 22mm Batten,22mm BATTEN,650,0.378,650,0.4,10G Tek @ 600 ctrs,1300,12
-SRP,26x21mm-0.55 BMT TCR / 28mm Batten,28mm BATTEN,950,0.378,950,0.468,10G Tek @ 600 ctrs,1300,13
-SRP,26x21mm-0.75 BMT TCR / 28mm Batten,28mm BATTEN,1300,0.378,950,0.468,10G Tek @ 600 ctrs,1300,14
-Intex,0.75 BMT 25mm,0.5 BMT 28mm,950,0.378,650,0.468,FC140-142,1300,15
-Intex,0.75 BMT 25mm,0.5 BMT 16mm,950,0.378,650,0.468,FC140-142,1300,16
-Intex,0.75 BMT 25mm,13mm,950,0.378,650,0.468,FC140-142,1300,17
-Intex,0.75 BMT 25mm,channel,950,0.378,650,0.468,FC140-142,1300,18
-Intex,0.75 BMT 38mm,0.5 BMT 28mm,1000,0.67,650,0.468,FC140-142,1300,19
-Intex,0.75 BMT 38mm,0.5 BMT 16mm,1000,0.67,650,0.468,FC140-142,1300,20
-Intex,0.75 BMT 38mm,13mm,1000,0.67,650,0.468,FC140-142,1300,21
-Intex,0.75 BMT 38mm,channel,1000,0.67,650,0.468,FC140-142,1300,22
-OWA,DG-MR,DG-CT,1000,0.67,650,.468,spc02,1300,23
+Not Specified,Not Specified,Not Specified,950,0.378,650,0.468,Not Specified,1300,0
+Rondo,Rondo Key-lock P125,Rondo Keylock Rondo P129,950,0.378,650,0.468,FC140-142,1300,1
+Rondo,Rondo Key-lock P127,Rondo Keylock Rondo P129,950,0.516,650,0.468,FC140-142,1300,2
+Rondo,Rondo Key-lock P128,Rondo Keylock Rondo P129,950,0.661,650,0.468,FC140-142,1300,3
+Rondo,Rondo Xpress XD21200,Rondo Xpress XD20600,1000,0.67,650,0.468,FC140-142,1300,4
+USG ,USGS Screwfix 16 - 28mm,USGS Screwfix 16 - 28mm,1000,0.661,650,0.468,8G 16TPI TEK,1300,5
+studco,Studco M25 TCR,Studco M29 FC,950,0.39,650,0.51,M40 - 42,1300,6
+studco,Studco M27 TCR,Studco M29 FC,950,0.53,650,0.51,M40 - 42,1300,7
+studco,Studco M28 TCR,Studco M308 FC,950,0.69,650,0.51,M40 - 42,1300,8
+studco,Studco M25 TCR,Studco M308 FC,950,0.39,650,0.4,M40 - 42,1300,9
+studco,Studco M27 TCR,Studco M308 FC,950,0.53,650,0.4,M40 - 42,1300,10
+studco,Studco M28 TCR,Studco M308 FC,950,0.69,650,0.4,M40 - 42,1300,11
+SRP,26x21mm TCR / 16mm Batten,16mm BATTEN,950,0.378,550,0.378,10G Tek @ 600 ctrs,1300,12
+SRP,38x12mm Strongback / 22mm Batten,22mm BATTEN,650,0.378,650,0.4,10G Tek @ 600 ctrs,1300,13
+SRP,26x21mm-0.55 BMT TCR / 28mm Batten,28mm BATTEN,950,0.378,950,0.468,10G Tek @ 600 ctrs,1300,14
+SRP,26x21mm-0.75 BMT TCR / 28mm Batten,28mm BATTEN,1300,0.378,950,0.468,10G Tek @ 600 ctrs,1300,15
+Intex,0.75 BMT 25mm,0.5 BMT 28mm,950,0.378,650,0.468,FC140-142,1300,16
+Intex,0.75 BMT 25mm,0.5 BMT 16mm,950,0.378,650,0.468,FC140-142,1300,17
+Intex,0.75 BMT 25mm,13mm,950,0.378,650,0.468,FC140-142,1300,18
+Intex,0.75 BMT 25mm,channel,950,0.378,650,0.468,FC140-142,1300,19
+Intex,0.75 BMT 38mm,0.5 BMT 28mm,1000,0.67,650,0.468,FC140-142,1300,20
+Intex,0.75 BMT 38mm,0.5 BMT 16mm,1000,0.67,650,0.468,FC140-142,1300,21
+Intex,0.75 BMT 38mm,13mm,1000,0.67,650,0.468,FC140-142,1300,22
+Intex,0.75 BMT 38mm,channel,1000,0.67,650,0.468,FC140-142,1300,23
+Armstrong,Peakform 38,Peakform 38XL2,1000,0.555,950,0.42,BERC2 clip,1300,24
